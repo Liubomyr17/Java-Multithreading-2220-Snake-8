@@ -1,0 +1,15 @@
+
+Snake 8
+
+It's Snake Designer's Turn
+The snake will initially consist of one piece - the head.
+It is necessary to transfer the coordinates of the snake to the constructor.
+It is necessary:
+a) pass to the constructor the coordinates of the snake's head (x and y)
+b) create in it the first “snake piece” (head) and add it to the sections collection.
+c) isAlive set to true
+d) do not forget to initialize the sections variable in the constructor. In null, you don’t add much!
+d) create and implement the int getX () method. The method should return the X coordinate of the snake's head.
+f) create and implement the int getY () method. The method should return the Y coordinate of the snake's head.
+g) still add the move () method to the class - it will be useful to us later.
+h) the created constructor must be beaten publicly.
